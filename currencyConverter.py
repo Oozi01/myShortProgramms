@@ -1,5 +1,3 @@
-from locale import currency
-
 
 availableCurrencies = ['EUR', 'USD', 'PLN', 'GBP', 'CAD', 'AUD', 'JPY', 'INR', 'NZR', 'CHF']
 
